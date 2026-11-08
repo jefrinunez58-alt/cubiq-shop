@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewBox="0 0 400 400">
+  <rect width="400" height="400" fill="#E0F2FE"/>
+  <rect x="65" y="155" width="120" height="120" rx="10" fill="#B8D8F8" stroke="#30343B" stroke-width="2"/>
+  <line x1="105" y1="155" x2="105" y2="275" stroke="#30343B" stroke-width="2"/>
+  <line x1="145" y1="155" x2="145" y2="275" stroke="#30343B" stroke-width="2"/>
+  <line x1="65" y1="195" x2="185" y2="195" stroke="#30343B" stroke-width="2"/>
+  <line x1="65" y1="235" x2="185" y2="235" stroke="#30343B" stroke-width="2"/>
+  <rect x="225" y="175" width="90" height="90" rx="8" fill="#D8C8F0" stroke="#30343B" stroke-width="2"/>
+  <line x1="270" y1="175" x2="270" y2="265" stroke="#30343B" stroke-width="2"/>
+  <line x1="225" y1="220" x2="315" y2="220" stroke="#30343B" stroke-width="2"/>
+  <text x="200" y="325" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#30343B">Pack Speedcuber</text>
+  <text x="200" y="349" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#475569">2x2 + 3x3</text>
+</svg>

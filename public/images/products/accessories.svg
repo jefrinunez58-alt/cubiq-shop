@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewBox="0 0 400 400">
+  <rect width="400" height="400" fill="#F5F7FA"/>
+  <rect x="155" y="90" width="90" height="220" rx="14" fill="#E5E7EB" stroke="#9CA3AF" stroke-width="2"/>
+  <rect x="175" y="60" width="50" height="45" rx="6" fill="#D1D5DB" stroke="#9CA3AF" stroke-width="2"/>
+  <rect x="190" y="130" width="20" height="140" fill="#B8D8F8" opacity="0.8"/>
+  <circle cx="200" cy="250" r="18" fill="#93C5FD"/>
+  <text x="200" y="350" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#30343B">Lubricante</text>
+  <text x="200" y="372" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#6B7280">para cubos</text>
+</svg>

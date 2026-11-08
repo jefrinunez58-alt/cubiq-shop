@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewBox="0 0 400 400">
+  <rect width="400" height="400" fill="#F3E8FF"/>
+  <rect x="70" y="140" width="110" height="110" rx="10" fill="#B8D8F8" stroke="#30343B" stroke-width="2"/>
+  <line x1="107" y1="140" x2="107" y2="250" stroke="#30343B" stroke-width="2"/>
+  <line x1="143" y1="140" x2="143" y2="250" stroke="#30343B" stroke-width="2"/>
+  <line x1="70" y1="177" x2="180" y2="177" stroke="#30343B" stroke-width="2"/>
+  <line x1="70" y1="213" x2="180" y2="213" stroke="#30343B" stroke-width="2"/>
+  <rect x="210" y="170" width="50" height="100" rx="8" fill="#E5E7EB" stroke="#9CA3AF" stroke-width="2"/>
+  <rect x="222" y="150" width="26" height="26" rx="4" fill="#D1D5DB"/>
+  <rect x="285" y="190" width="55" height="70" rx="6" fill="#FFF" stroke="#D1D5DB" stroke-width="2"/>
+  <line x1="295" y1="210" x2="330" y2="210" stroke="#CBD5E1" stroke-width="2"/>
+  <line x1="295" y1="225" x2="330" y2="225" stroke="#CBD5E1" stroke-width="2"/>
+  <line x1="295" y1="240" x2="320" y2="240" stroke="#CBD5E1" stroke-width="2"/>
+  <text x="200" y="320" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#30343B">Pack Principiante</text>
+  <text x="200" y="344" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#6B7280">3x3 + lubricante + guía</text>
+</svg>

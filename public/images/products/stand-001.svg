@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewBox="0 0 400 400">
+  <rect width="400" height="400" fill="#F8FAFC"/>
+  <ellipse cx="200" cy="300" rx="110" ry="22" fill="#D1D5DB"/>
+  <rect x="170" y="230" width="60" height="75" rx="6" fill="#94A3B8"/>
+  <rect x="145" y="150" width="110" height="110" rx="10" fill="#B8D8F8" stroke="#30343B" stroke-width="2" transform="rotate(-8 200 205)"/>
+  <text x="200" y="360" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#30343B">Base de exhibición</text>
+</svg>
